@@ -9,3 +9,5 @@ langchain-chroma
 chromadb
 sentence-transformers
 pip
+rank_bm25
+langchain_classic
