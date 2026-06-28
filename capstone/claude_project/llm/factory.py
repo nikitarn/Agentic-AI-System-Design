@@ -1,5 +1,5 @@
-from capstone.config import config
-from observability.logging import get_logger
+from claude_project.config import config
+from claude_project.observability.logging import get_logger
 
 logger = get_logger(__name__)
 
