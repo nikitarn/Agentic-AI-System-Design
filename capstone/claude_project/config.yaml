@@ -1,11 +1,32 @@
-embeddings:
- provider: openai             
- model: text-embedding-3-small
+tasks:
+ db_path: .educosys/tasks.db
+
+
+llm:
+ provider: openai
+ model: gpt-5.5
+ judge_model: gpt-4o-mini   # cheaper model used only for LLM-as-judge
+
+
+skills:
+ skills_dir: .educosys/skills
+
+memory:
+ db_path: .educosys/memory/memory.db
+ summarize_at_tokens: 4000
+ keep_last_messages: 20
 
 
 chromadb:
- persist_dir: .chromadb/
+ persist_dir: .educosys/chromadb/
  collection_name: codebase
+
+rag:
+  mode: hybrid #semantic/ hybrid
+
+embeddings:
+ provider: openai             
+ model: text-embedding-3-small
 
 
 elasticsearch:
@@ -13,6 +34,10 @@ elasticsearch:
  index_name: codebase
 
 
-llm:
-  provider: openai
-  model: gpt-4o
+vector_store:
+ provider: chromadb
+ retrieval_mode: dense #dense/sparse/hybrid
+
+qdrant:
+ collection_name: codebase1 #codebase
+

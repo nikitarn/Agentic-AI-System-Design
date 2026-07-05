@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 
 from tree_sitter import Language, Parser
-from tree_sitter_languages import get_language, get_parser
+from tree_sitter_language_pack import get_language, get_parser
 
 
 from claude_project.observability.logging import get_logger
@@ -91,12 +91,12 @@ def _parse_with_treesitter(source: str, filepath: str, language_name: str) -> li
   """Parse source with the appropriate tree-sitter grammar and extract named blocks."""
   logger.info(f"Parsing {language_name} file: {filepath}")
   parser = get_parser(language_name)
-  tree = parser.parse(source.encode())
+  tree = parser.parse(source)
   lines = source.splitlines()
 
 
   chunks = []
-  _walk(tree.root_node, source, filepath, chunks, depth=0)
+  _walk(tree.root_node(), source, filepath, chunks, depth=0)
 
 
   # If the AST yielded nothing (e.g. a file with only imports), fall back to line chunks
@@ -114,32 +114,36 @@ def _walk(node, source: str, filepath: str, chunks: list, depth: int):
   Recursively walk the AST. When a named block node is found, record it and stop
   descending — this keeps chunks at the top level and avoids duplicating nested functions.
   """
-  if node.type in BLOCK_NODE_TYPES:
+  kind = node.kind()
+  if kind in BLOCK_NODE_TYPES:
       name = _extract_name(node, source)
-      content = source[node.start_byte:node.end_byte]
-      chunk_type = "class" if "class" in node.type else "function"
+      content = source[node.start_byte():node.end_byte()]
+      chunk_type = "class" if "class" in kind else "function"
+      start_line = node.start_position().row + 1
+      end_line = node.end_position().row + 1
       chunks.append(ParsedChunk(
           name=name,
           type=chunk_type,
           content=content,
           source=filepath,
-          start_line=node.start_point[0] + 1,
-          end_line=node.end_point[0] + 1,
+          start_line=start_line,
+          end_line=end_line,
       ))
-      logger.debug(f"  Found {chunk_type} '{name}' (lines {node.start_point[0]+1}-{node.end_point[0]+1})")
+      logger.debug(f"  Found {chunk_type} '{name}' (lines {start_line}-{end_line})")
       return  # stop here — don't index nested functions/classes as separate chunks
 
 
-  for child in node.children:
-      _walk(child, source, filepath, chunks, depth + 1)
+  for i in range(node.child_count()):
+      _walk(node.child(i), source, filepath, chunks, depth + 1)
 
 
 def _extract_name(node, source: str) -> str:
   """Find the identifier child of a block node and return its text as the chunk name."""
-  for child in node.children:
-      if child.type in ("identifier", "name", "property_identifier"):
-          return source[child.start_byte:child.end_byte]
-  return node.type  # fallback to node type if no name found
+  for i in range(node.child_count()):
+      child = node.child(i)
+      if child.kind() in ("identifier", "name", "property_identifier"):
+          return source[child.start_byte():child.end_byte()]
+  return node.kind()  # fallback to node type if no name found
 
 
 def _sliding_window(lines: list[str], filepath: str) -> list[ParsedChunk]:
