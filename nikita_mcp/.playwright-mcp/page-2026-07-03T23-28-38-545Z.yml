@@ -1,0 +1,1030 @@
+- generic [active] [ref=f2e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f2e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f2e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+  - generic [ref=f2e8]:
+    - search [ref=f2e9]:
+      - generic [ref=f2e11]:
+        - 'link "Fourth of July 2026: Celebrating 250 years of the USA" [ref=f2e13] [cursor=pointer]':
+          - /url: https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQPQgI
+          - 'img "Fourth of July 2026: Celebrating 250 years of the USA" [ref=f2e14]'
+        - generic [ref=f2e15]:
+          - generic [ref=f2e16]:
+            - combobox "Search" [ref=f2e19]: Model Context Protocol Model Context Protocol
+            - generic [ref=f2e20]:
+              - button "Clear" [ref=f2e22] [cursor=pointer]:
+                - img [ref=f2e24]
+              - generic [ref=f2e27]:
+                - button "Search by voice" [ref=f2e28] [cursor=pointer]:
+                  - img [ref=f2e29]
+                - button "Search by image" [ref=f2e31] [cursor=pointer]:
+                  - img [ref=f2e32]
+          - button "Search" [ref=f2e34] [cursor=pointer]:
+            - img [ref=f2e37]
+    - generic [ref=f2e39]:
+      - button "Settings" [ref=f2e41] [cursor=pointer]:
+        - img [ref=f2e44]
+      - button "Share" [ref=f2e47] [cursor=pointer]:
+        - img [ref=f2e51]
+      - generic [ref=f2e53]:
+        - button "Google apps" [ref=f2e55] [cursor=pointer]:
+          - img [ref=f2e56]
+        - link "Sign in" [ref=f2e60] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3DModel%2520Context%2520Protocol%26hl%3Den%26sei%3DpEVIapyEPbLg0PEPn7TFuAE&ec=futura_srp_og_si_72236_p
+  - generic [ref=f2e62]:
+    - navigation [ref=f2e68]:
+      - generic [ref=f2e74]:
+        - list [ref=f2e75]:
+          - listitem [ref=f2e76]:
+            - link "AI Mode" [ref=f2e79] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&aep=1&ntc=1&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ2J8OegQIGhAD
+              - generic [ref=f2e82]: AI Mode
+          - listitem [ref=f2e83]:
+            - link "All" [disabled] [ref=f2e84]:
+              - generic [ref=f2e86]: All
+          - listitem [ref=f2e87]:
+            - link "Images" [ref=f2e88] [cursor=pointer]:
+              - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&q=Model+Context+Protocol&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQtKgLegQIHBAB
+              - generic [ref=f2e90]: Images
+          - listitem [ref=f2e91]:
+            - link "Videos" [ref=f2e92] [cursor=pointer]:
+              - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&udm=7&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&q=Model+Context+Protocol&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQtKgLegQIHRAB
+              - generic [ref=f2e94]: Videos
+          - listitem [ref=f2e95]:
+            - link "Shopping" [ref=f2e96] [cursor=pointer]:
+              - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&udm=28&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&q=Model+Context+Protocol&ved=1t:220175&ictx=111
+              - generic [ref=f2e98]: Shopping
+          - listitem [ref=f2e99]:
+            - link "News" [ref=f2e100] [cursor=pointer]:
+              - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ0pQJegQIHhAB
+              - generic [ref=f2e102]: News
+          - listitem [ref=f2e103]:
+            - link "Forums" [ref=f2e104] [cursor=pointer]:
+              - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&udm=18&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VstEKsVDqPorK0Gahnm2nq-aQnTz_mBV-EZYISbLc-S3LQBbMYAGT8xXTqdTxRg0wGCWZztS_-z7VOJMGgRYd2KZq3hv2Rfo4RyZe39aNoaWPGhtlcktx3ih2hZdqZxzNR-0NX2A0FINB36h2jcg66YEtv3Bab-iYd-SQED29ZQNJiVjg&q=Model+Context+Protocol&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQs6gLegQIIBAB
+              - generic [ref=f2e106]: Forums
+          - listitem [ref=f2e107]:
+            - button "More filters" [ref=f2e108] [cursor=pointer]:
+              - generic "More filters" [ref=f2e109]:
+                - generic [ref=f2e110]:
+                  - generic [ref=f2e111]: More
+                  - img [ref=f2e113]
+        - button "Tools" [ref=f2e116] [cursor=pointer]:
+          - generic [ref=f2e118]:
+            - generic [ref=f2e119]: Tools
+            - img [ref=f2e121]
+    - heading "Search Results" [level=1] [ref=f2e124]
+    - generic [ref=f2e125]:
+      - generic [ref=f2e140]:
+        - generic [ref=f2e142]:
+          - generic [ref=f2e144]:
+            - generic [ref=f2e145]:
+              - img [ref=f2e146]
+              - heading "AI Overview" [level=2] [ref=f2e148]
+            - button "About this result" [ref=f2e152]:
+              - img [ref=f2e154]
+          - generic [ref=f2e172]:
+            - generic [ref=f2e174]:
+              - generic [ref=f2e175]:
+                - button "What is Model Context Protocol? How MCP bridges AI and ..." [ref=f2e178]:
+                  - img "What is Model Context Protocol? How MCP bridges AI and ..." [ref=f2e179]
+                - text: The Model Context Protocol (MCP) is
+                - mark [ref=f2e180]: an open-source standard created by Anthropic that enables AI assistants to securely and uniformly connect to external data sources and tools
+                - text: . It provides a standardized “plug-and-play” interface, solving the fragmented N × M integration problem where every AI model previously needed custom code to talk to every software tool.
+                - generic [ref=f2e182]:
+                  - link "Anthropic (+2) - View related links" [ref=f2e183] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/news/model-context-protocol
+                  - button "Anthropic (+2) - View related links" [ref=f2e184] [cursor=pointer]:
+                    - generic [ref=f2e186]:
+                      - generic [ref=f2e187]: Anthropic
+                      - generic [ref=f2e188]: "+2"
+                    - img [ref=f2e191]
+              - heading "How it Works" [level=3] [ref=f2e193]
+              - generic [ref=f2e195]:
+                - text: MCP operates on a client-server architecture, similar to how HTTP connects browsers to servers. Instead of hardcoding API calls directly into your AI application, the integration logic is separated into an MCP server.
+                - generic [ref=f2e197]:
+                  - link [ref=f2e198] [cursor=pointer]:
+                    - /url: https://www.figma.com/resource-library/what-is-mcp/
+                  - button [ref=f2e199] [cursor=pointer]:
+                    - generic [ref=f2e201]:
+                      - generic [ref=f2e202]: Figma
+                      - generic [ref=f2e203]: "+1"
+                    - img [ref=f2e206]
+              - list [ref=f2e209]:
+                - listitem [ref=f2e210]:
+                  - generic [ref=f2e211]:
+                    - strong [ref=f2e212]: "MCP Host:"
+                    - text: The main AI application or environment (e.g., an IDE or conversational chat interface) that the user interacts with .
+                - generic [ref=f2e213]:
+                  - listitem [ref=f2e214]:
+                    - generic [ref=f2e215]:
+                      - strong [ref=f2e216]: "MCP Client:"
+                      - text: The component within the Host that manages communication and translates requests to and from the AI.
+                  - listitem [ref=f2e217]:
+                    - generic [ref=f2e218]:
+                      - strong [ref=f2e219]: "MCP Server:"
+                      - text: A lightweight, local, or remote program that owns the specific API or data source integration.
+                    - generic [ref=f2e221]:
+                      - link [ref=f2e222] [cursor=pointer]:
+                        - /url: https://cloud.google.com/discover/what-is-model-context-protocol
+                      - button [ref=f2e223] [cursor=pointer]:
+                        - generic [ref=f2e225]:
+                          - generic [ref=f2e226]: Google Cloud
+                          - generic [ref=f2e227]: "+4"
+                        - img [ref=f2e230]
+              - generic [ref=f2e232]:
+                - heading [level=3] [ref=f2e234]: Key Features
+                - list [ref=f2e236]:
+                  - listitem [ref=f2e237]:
+                    - generic [ref=f2e238]:
+                      - strong [ref=f2e239]: "Dynamic Tooling:"
+                      - text: When you prompt an AI, the MCP Server can dynamically tell the MCP Client what tools, resources, and pre-written prompts it has available.
+                    - generic [ref=f2e241]:
+                      - link [ref=f2e242] [cursor=pointer]:
+                        - /url: https://cloud.google.com/discover/what-is-model-context-protocol
+                      - button [ref=f2e243] [cursor=pointer]:
+                        - generic [ref=f2e245]:
+                          - generic [ref=f2e246]: Google Cloud
+                          - generic [ref=f2e247]: "+1"
+                        - img [ref=f2e250]
+                  - listitem [ref=f2e252]:
+                    - generic [ref=f2e253]:
+                      - strong [ref=f2e254]: "Two-Way Communication:"
+                      - text: It allows AI assistants to both pull data (e.g., read a database) and push actions (e.g., create a Jira ticket or search your local filesystem).
+                    - generic [ref=f2e256]:
+                      - link [ref=f2e257] [cursor=pointer]:
+                        - /url: https://www.anthropic.com/news/model-context-protocol
+                      - button [ref=f2e258] [cursor=pointer]:
+                        - generic [ref=f2e260]:
+                          - generic [ref=f2e261]: Anthropic
+                          - generic [ref=f2e262]: "+1"
+                        - img [ref=f2e265]
+                  - listitem [ref=f2e267]:
+                    - generic [ref=f2e268]:
+                      - strong [ref=f2e269]: "Vendor Agnostic:"
+                      - text: The protocol allows users to reuse the same tool and data integrations across multiple AI applications and models without vendor lock-in.
+                    - generic [ref=f2e271]:
+                      - link [ref=f2e272] [cursor=pointer]:
+                        - /url: https://cloud.google.com/discover/what-is-model-context-protocol
+                      - button [ref=f2e273] [cursor=pointer]:
+                        - generic [ref=f2e275]:
+                          - generic [ref=f2e276]: Google Cloud
+                          - generic [ref=f2e277]: "+1"
+                        - img [ref=f2e280]
+                - heading [level=3] [ref=f2e283]: Why Developers Use It
+                - generic [ref=f2e285]:
+                  - text: Previously, building AI integrations required custom API wrappers and manual tool-schema definitions for every model. With MCP, developers simply connect to community-maintained or custom MCP servers, which handle the underlying complexities of authentication, rate limiting, and error handling automatically.
+                  - generic [ref=f2e287]:
+                    - link [ref=f2e288] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/
+                    - button [ref=f2e289] [cursor=pointer]:
+                      - generic [ref=f2e291]:
+                        - generic [ref=f2e292]: Reddit
+                        - generic [ref=f2e293]: "+3"
+                      - img [ref=f2e296]
+                - generic [ref=f2e299]:
+                  - text: You can explore the standard, documentation, and various language-specific SDKs (Python, TypeScript, C#) directly through the
+                  - link [ref=f2e301] [cursor=pointer]:
+                    - /url: https://github.com/modelcontextprotocol
+                    - text: Model Context Protocol GitHub
+                  - text: repository.
+                  - generic [ref=f2e303]:
+                    - link [ref=f2e304] [cursor=pointer]:
+                      - /url: https://github.com/modelcontextprotocol
+                    - button [ref=f2e305] [cursor=pointer]:
+                      - generic [ref=f2e308]: GitHub
+                      - img [ref=f2e311]
+            - generic [ref=f2e316]:
+              - generic [ref=f2e318]:
+                - button "9 sites" [ref=f2e319] [cursor=pointer]:
+                  - generic [ref=f2e328]: 9 sites
+                - button "About this result" [ref=f2e333] [cursor=pointer]:
+                  - img [ref=f2e335]
+              - list [ref=f2e338]:
+                - listitem [ref=f2e339]:
+                  - generic [ref=f2e340]:
+                    - link "Introducing the Model Context Protocol - Anthropic. Opens in new tab." [ref=f2e341] [cursor=pointer]:
+                      - /url: https://www.anthropic.com/news/model-context-protocol
+                    - generic [ref=f2e342]:
+                      - generic [ref=f2e344]:
+                        - generic [ref=f2e345]: Introducing the Model Context Protocol - Anthropic
+                        - generic [ref=f2e346]: Nov 25, 2024. Today, we're open-sourcing the Model Context Protocol (MCP), a new standard for connecting AI assistants to the syst...
+                      - generic [ref=f2e348]:
+                        - generic [ref=f2e353]: Anthropic
+                        - button "About this result" [ref=f2e357] [cursor=pointer]:
+                          - img [ref=f2e359]
+                - listitem [ref=f2e363]:
+                  - generic [ref=f2e364]:
+                    - link "Model Context Protocol - Wikipedia. Opens in new tab." [ref=f2e365] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Model_Context_Protocol
+                    - generic [ref=f2e366]:
+                      - generic [ref=f2e368]:
+                        - generic [ref=f2e369]: Model Context Protocol - Wikipedia
+                        - generic [ref=f2e370]: The Model Context Protocol (MCP) is an open standard and open-source framework introduced by Anthropic in November 2024 to standar...
+                      - generic [ref=f2e372]:
+                        - generic [ref=f2e377]: Wikipedia
+                        - button [ref=f2e381] [cursor=pointer]:
+                          - img [ref=f2e383]
+                - listitem [ref=f2e387]:
+                  - generic [ref=f2e388]:
+                    - link [ref=f2e389] [cursor=pointer]:
+                      - /url: https://github.com/modelcontextprotocol
+                    - generic [ref=f2e390]:
+                      - generic [ref=f2e392]:
+                        - generic [ref=f2e393]: Model Context Protocol - GitHub
+                        - generic [ref=f2e394]: Model Context Protocol. An open protocol that enables seamless integration between LLM applications and external data sources and ...
+                      - generic [ref=f2e396]:
+                        - generic [ref=f2e401]: GitHub
+                        - button [ref=f2e405] [cursor=pointer]:
+                          - img [ref=f2e407]
+              - button [ref=f2e411] [cursor=pointer]:
+                - generic [ref=f2e412]: Show all
+        - button "Show more AI Overview" [ref=f2e416]:
+          - generic [ref=f2e418] [cursor=pointer]:
+            - generic [ref=f2e419]: Show more
+            - img [ref=f2e421]
+      - main [ref=f2e424]:
+        - generic [ref=f2e428]:
+          - region "Ads" [ref=f2e432]:
+            - generic [ref=f2e433]:
+              - heading "Sponsored results" [level=2] [ref=f2e440]
+              - generic [ref=f2e441]:
+                - generic [ref=f2e448]:
+                  - generic [ref=f2e453]:
+                    - generic [ref=f2e454]:
+                      - link "MCP Data Layer for AI Nexla https://www.nexla.com" [ref=f2e455] [cursor=pointer]:
+                        - /url: https://nexla.com/mcp-architecture/
+                        - heading "MCP Data Layer for AI" [level=3] [ref=f2e456]
+                        - generic [ref=f2e462]:
+                          - generic [ref=f2e464]: Nexla
+                          - generic [ref=f2e465]: https://www.nexla.com
+                      - button "Why this ad?" [ref=f2e468] [cursor=pointer]:
+                        - img [ref=f2e470]
+                    - generic [ref=f2e475]:
+                      - text: MCP Gateway Architecture — Build enterprise MCP architecture with governance,
+                      - emphasis [ref=f2e476]: context
+                      - text: ", and security. Turn enterprise data into..."
+                    - generic [ref=f2e481]: 10K+ visits in past month
+                    - generic [ref=f2e482]:
+                      - link "Enterprise MCP Architecture Route data to AI agents with governance, access control & audit logging. Request demo." [ref=f2e486] [cursor=pointer]:
+                        - /url: /aclk?sa=L&pf=1&ai=DChsSEwi5h9HF1LeVAxVXGq0GHSOoPLsYACICCAEQBRoCcHY&co=1&ase=2&gclid=EAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYASADEgIQl_D_BwE&cid=CAAS0gHkaFIg7RzkZRKCDHIw5foc2s9oQUpE1MCLpJ74F0k5wPTBrloUL0K41jl2FIIMArZVcGLJ51mXcg66ihtwgQ_swW-zGxtBFEKBLjkx00do3KiyU6fsHTi1m25ecsgrZLtDa1dbYs_ruZGxw-JRJfcPlvA7_tWP_GPj_G-GA1oC_Tk-EISf6IECFt_U43I1bFnV5iIsVq-ivCT1Wg9c-naKQxJB5A1mZwbx-ZpjnyL9gIo8eChVpIw88Pn05E8VK-rS4FIc_wcD8UZOJzHOD-9e1ik&cce=2&category=acrcp_v1_32&sig=AOD64_2C0sFJk24crMKJC3X7K3z97P49Cg&adurl=https://nexla.com/mcp-architecture/%3Futm_term%3Dmodel%2520context%2520protocol%2520data%26utm_campaign%3DUS_S_Data-Integration%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7917802207%26hsa_cam%3D23705317332%26hsa_grp%3D195300844695%26hsa_ad%3D805329874711%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2489713336318%26hsa_kw%3Dmodel%2520context%2520protocol%2520data%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23705317332%26gbraid%3D0AAAAAocrZqVaAkdmmfvT9frzaJ6hsbdu5%26gclid%3DEAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYASADEgIQl_D_BwE&q=
+                        - generic [ref=f2e487]: Enterprise MCP Architecture
+                        - generic [ref=f2e490]: Route data to AI agents with governance, access control & audit logging. Request demo.
+                      - link "AI Architecture for MCP Connect AI agents to data, APIs, and documents with real-time pipelines." [ref=f2e494] [cursor=pointer]:
+                        - /url: /aclk?sa=L&pf=1&ai=DChsSEwi5h9HF1LeVAxVXGq0GHSOoPLsYACICCAEQBhoCcHY&co=1&ase=2&gclid=EAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYASAEEgIIt_D_BwE&cid=CAAS0gHkaFIg7RzkZRKCDHIw5foc2s9oQUpE1MCLpJ74F0k5wPTBrloUL0K41jl2FIIMArZVcGLJ51mXcg66ihtwgQ_swW-zGxtBFEKBLjkx00do3KiyU6fsHTi1m25ecsgrZLtDa1dbYs_ruZGxw-JRJfcPlvA7_tWP_GPj_G-GA1oC_Tk-EISf6IECFt_U43I1bFnV5iIsVq-ivCT1Wg9c-naKQxJB5A1mZwbx-ZpjnyL9gIo8eChVpIw88Pn05E8VK-rS4FIc_wcD8UZOJzHOD-9e1ik&cce=2&category=acrcp_v1_32&sig=AOD64_2ON3Zju3UM2Z0_Ilo_S7IboGQfHA&adurl=https://nexla.com/mcp-architecture/%3Futm_term%3Dmodel%2520context%2520protocol%2520data%26utm_campaign%3DUS_S_Data-Integration%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D7917802207%26hsa_cam%3D23705317332%26hsa_grp%3D195300844695%26hsa_ad%3D805329874711%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2489713336318%26hsa_kw%3Dmodel%2520context%2520protocol%2520data%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23705317332%26gbraid%3D0AAAAAocrZqVaAkdmmfvT9frzaJ6hsbdu5%26gclid%3DEAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYASAEEgIIt_D_BwE&q=
+                        - generic [ref=f2e495]: AI Architecture for MCP
+                        - generic [ref=f2e498]: Connect AI agents to data, APIs, and documents with real-time pipelines.
+                      - link "One MCP for All Data Connect AI agents to 550+ enterprise systems with governed MCP access." [ref=f2e502] [cursor=pointer]:
+                        - /url: https://nexla.com/mcp/
+                        - generic [ref=f2e503]: One MCP for All Data
+                        - generic [ref=f2e506]: Connect AI agents to 550+ enterprise systems with governed MCP access.
+                      - link "AI for AI Next-Generation, Meta-data Driven Data Integration" [ref=f2e510] [cursor=pointer]:
+                        - /url: https://offers.nexla.com/metadata-data-integration-guide
+                        - generic [ref=f2e511]: AI for AI
+                        - generic [ref=f2e514]: Next-Generation, Meta-data Driven Data Integration
+                      - link "Book Demo Book a group, on-demand, or personalized demo to learn more." [ref=f2e518] [cursor=pointer]:
+                        - /url: https://www.nexla.com/
+                        - generic [ref=f2e519]: Book Demo
+                        - generic [ref=f2e522]: Book a group, on-demand, or personalized demo to learn more.
+                  - generic [ref=f2e528]:
+                    - link "Image from saviynt.com" [ref=f2e530] [cursor=pointer]:
+                      - /url: https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwi5h9HF1LeVAxVXGq0GHSOoPLsYACICCAEQAhoCcHY&co=1&ase=2&gclid=EAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYAiABEgKddvD_BwE&cid=CAAS0gHkaFIg7RzkZRKCDHIw5foc2s9oQUpE1MCLpJ74F0k5wPTBrloUL0K41jl2FIIMArZVcGLJ51mXcg66ihtwgQ_swW-zGxtBFEKBLjkx00do3KiyU6fsHTi1m25ecsgrZLtDa1dbYs_ruZGxw-JRJfcPlvA7_tWP_GPj_G-GA1oC_Tk-EISf6IECFt_U43I1bFnV5iIsVq-ivCT1Wg9c-naKQxJB5A1mZwbx-ZpjnyL9gIo8eChVpIw88Pn05E8VK-rS4FIc_wcD8UZOJzHOD-9e1ik&cce=2&category=acrcp_v1_32&sig=AOD64_3gTP4o4hexb9LXfy47HzjqTvzIKA&q=&nis=4&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQh78CegQIDhAB&adurl=https://saviynt.com/products/mcpserver%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%7Bcampaign_name%7D%26utm_term%3Dmodel%2520context%2520protocol%26hsa_acc%3D9973326210%26hsa_cam%3D22948571722%26hsa_grp%3D186023573033%26hsa_ad%3D771529071098%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2408047424777%26hsa_kw%3Dmodel%2520context%2520protocol%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D22948571722%26gbraid%3D0AAAAADgUvZsKVlzqLSupPQl72baD19nDJ%26gclid%3DEAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAAYAiABEgKddvD_BwE
+                      - img "Image from saviynt.com" [ref=f2e532]
+                    - generic [ref=f2e533]:
+                      - link "What Is MCP Server? saviynt.com https://www.saviynt.com" [ref=f2e534] [cursor=pointer]:
+                        - /url: https://saviynt.com/products/mcpserver
+                        - heading "What Is MCP Server?" [level=3] [ref=f2e536]
+                        - generic [ref=f2e542]:
+                          - generic [ref=f2e544]: saviynt.com
+                          - generic [ref=f2e545]: https://www.saviynt.com
+                      - button "Why this ad?" [ref=f2e548] [cursor=pointer]:
+                        - img [ref=f2e550]
+                    - generic [ref=f2e555]:
+                      - emphasis [ref=f2e556]: Model Context Protocol
+                      - text: — Modernize governance by extending Saviynt Identity Cloud with MCP Server. Gain deeper visibility...
+                - button "Hide sponsored results" [ref=f2e558] [cursor=pointer]:
+                  - separator [ref=f2e559]
+                  - generic [ref=f2e560]:
+                    - generic [ref=f2e561]: Hide sponsored results
+                    - img [ref=f2e563]
+          - generic [ref=f2e565]:
+            - generic [ref=f2e568]:
+              - heading "Web results" [level=2] [ref=f2e569]
+              - generic [ref=f2e570]:
+                - generic [ref=f2e573]:
+                  - link "Model Context Protocol Model Context Protocol https://modelcontextprotocol.io › getting-started › intro" [ref=f2e575] [cursor=pointer]:
+                    - /url: https://modelcontextprotocol.io/docs/getting-started/intro
+                    - heading "Model Context Protocol" [level=3] [ref=f2e576]
+                    - generic [ref=f2e582]:
+                      - generic [ref=f2e584]: Model Context Protocol
+                      - generic [ref=f2e586]: https://modelcontextprotocol.io › getting-started › intro
+                  - button "About this result" [ref=f2e589] [cursor=pointer]:
+                    - img [ref=f2e592]
+                - generic [ref=f2e595]:
+                  - generic [ref=f2e596]:
+                    - emphasis [ref=f2e597]: MCP (Model Context Protocol
+                    - text: ) is an open-source standard for connecting AI applications to external systems. Using MCP, AI applications like Claude or ChatGPT ...
+                  - link "Read more" [ref=f2e598] [cursor=pointer]:
+                    - /url: https://modelcontextprotocol.io/docs/getting-started/intro#:~:text=MCP%20(Model%20Context%20Protocol)%20is,applications%20like%20Claude%20or%20ChatGPT
+            - generic [ref=f2e602]:
+              - generic [ref=f2e605]:
+                - link "Model Context Protocol Wikipedia https://en.wikipedia.org › wiki › Model_Context_Proto..." [ref=f2e607] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Model_Context_Protocol
+                  - heading "Model Context Protocol" [level=3] [ref=f2e608]
+                  - generic [ref=f2e614]:
+                    - generic [ref=f2e616]: Wikipedia
+                    - generic [ref=f2e618]: https://en.wikipedia.org › wiki › Model_Context_Proto...
+                - button "About this result" [ref=f2e621] [cursor=pointer]:
+                  - img [ref=f2e624]
+              - generic [ref=f2e627]:
+                - generic [ref=f2e628]:
+                  - text: The Model Context Protocol (MCP) is
+                  - emphasis [ref=f2e629]: an open standard and open-source framework
+                  - text: introduced by Anthropic in November 2024 to standardize the way artificial ...
+                - link "Read more" [ref=f2e630] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Model_Context_Protocol#:~:text=The%20Model%20Context%20Protocol%20(MCP),to%20standardize%20the%20way%20artificial
+            - generic [ref=f2e636]:
+              - heading "Things to know" [level=2] [ref=f2e639]
+              - generic [ref=f2e641]:
+                - heading "Limitations . What are the limitations of the Model Context Protocol?" [level=3] [ref=f2e647]:
+                  - button "Limitations . What are the limitations of the Model Context Protocol?" [ref=f2e648] [cursor=pointer]:
+                    - generic [ref=f2e649]:
+                      - generic [ref=f2e650]: Limitations
+                      - generic: .
+                      - generic [ref=f2e653]: What are the limitations of the Model Context Protocol?
+                    - img [ref=f2e656]
+                - heading "Release Date . When was the Model Context Protocol released?" [level=3] [ref=f2e664]:
+                  - button "Release Date . When was the Model Context Protocol released?" [ref=f2e665] [cursor=pointer]:
+                    - generic [ref=f2e666]:
+                      - generic [ref=f2e667]: Release Date
+                      - generic: .
+                      - generic [ref=f2e670]: When was the Model Context Protocol released?
+                    - img [ref=f2e673]
+                - heading "Key Features . What are the key features of the Model Context Protocol?" [level=3] [ref=f2e681]:
+                  - button "Key Features . What are the key features of the Model Context Protocol?" [ref=f2e682] [cursor=pointer]:
+                    - generic [ref=f2e683]:
+                      - generic [ref=f2e684]: Key Features
+                      - generic: .
+                      - generic [ref=f2e687]: What are the key features of the Model Context Protocol?
+                    - img [ref=f2e690]
+                - heading "How it Works . How does the Model Context Protocol work?" [level=3] [ref=f2e698]:
+                  - button "How it Works . How does the Model Context Protocol work?" [ref=f2e699] [cursor=pointer]:
+                    - generic [ref=f2e700]:
+                      - generic [ref=f2e701]: How it Works
+                      - generic: .
+                      - generic [ref=f2e704]: How does the Model Context Protocol work?
+                    - img [ref=f2e707]
+                - heading "Developer . Who developed the Model Context Protocol?" [level=3] [ref=f2e715]:
+                  - button "Developer . Who developed the Model Context Protocol?" [ref=f2e716] [cursor=pointer]:
+                    - generic [ref=f2e717]:
+                      - generic [ref=f2e718]: Developer
+                      - generic: .
+                      - generic [ref=f2e721]: Who developed the Model Context Protocol?
+                    - img [ref=f2e724]
+            - generic [ref=f2e731]:
+              - heading "Discussions and forums" [level=2] [ref=f2e733]
+              - generic [ref=f2e734]:
+                - generic [ref=f2e737]:
+                  - generic [ref=f2e739] [cursor=pointer]:
+                    - generic [ref=f2e742]:
+                      - link "MCP (Model Context Protocol) is not really anything new or special? Reddit · r/ArtificialInteligence · 30+ comments · 11 months ago" [ref=f2e743]:
+                        - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/
+                        - generic [ref=f2e744]:
+                          - heading "MCP (Model Context Protocol) is not really anything new or special?" [level=3] [ref=f2e745]:
+                            - link "MCP (Model Context Protocol) is not really anything new or special?" [ref=f2e746]
+                          - generic [ref=f2e753]:
+                            - generic [ref=f2e754]: Reddit ·
+                            - generic [ref=f2e756]:
+                              - generic [ref=f2e757]:
+                                - generic [ref=f2e758]: r/ArtificialInteligence
+                                - generic [ref=f2e759]:
+                                  - generic [ref=f2e760]: ·
+                                  - generic [ref=f2e761]: 30+ comments
+                              - generic [ref=f2e762]:
+                                - generic [ref=f2e763]: ·
+                                - generic [ref=f2e764]: 11 months ago
+                      - generic [ref=f2e770]:
+                        - generic [ref=f2e774]: ·
+                        - button "About this result" [ref=f2e779]:
+                          - img [ref=f2e782]
+                    - button "MCP (Model Context Protocol) is not really anything new or special? Reddit · r/ArtificialInteligence · 30+ comments · 11 months ago" [expanded] [ref=f2e784]:
+                      - img [ref=f2e787]
+                  - list [ref=f2e796]:
+                    - listitem [ref=f2e797]:
+                      - generic [ref=f2e801]:
+                        - link "What you are missing... is the hype train! More discussions on MCP (Model Context Protocol) is not really anything new or special? Top answer · 11 votes · 11 months ago" [ref=f2e802] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37p4hx/
+                        - generic [ref=f2e804]:
+                          - text: What you are missing... is the hype train!
+                          - link [ref=f2e805] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37p4hx/
+                            - generic [ref=f2e806]: More
+                            - img [ref=f2e808]
+                        - generic [ref=f2e810]:
+                          - generic [ref=f2e811]:
+                            - img [ref=f2e813]
+                            - text: Top answer
+                          - text: · 11 votes · 11 months ago
+                    - listitem [ref=f2e815]:
+                      - generic [ref=f2e819]:
+                        - link "IMHO MCP is for Standardization, Not Reinvention, Secure, Local-first Interop, Unification Layer ... More discussions on MCP (Model Context Protocol) is not really anything new or special? 9 votes · 11 months ago" [ref=f2e820] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37pmga/
+                        - generic [ref=f2e822]:
+                          - text: IMHO MCP is for Standardization, Not Reinvention, Secure, Local-first Interop, Unification Layer ...
+                          - link [ref=f2e823] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37pmga/
+                            - generic [ref=f2e824]: More
+                            - img [ref=f2e826]
+                        - generic [ref=f2e828]: 9 votes · 11 months ago
+                    - listitem [ref=f2e829]:
+                      - generic [ref=f2e833]:
+                        - link "It’s a proposed standard so the community can build independently with minimal coordination ... More discussions on MCP (Model Context Protocol) is not really anything new or special? 6 votes · 11 months ago" [ref=f2e834] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37qoqd/
+                        - generic [ref=f2e836]:
+                          - text: It’s a proposed standard so the community can build independently with minimal coordination ...
+                          - link [ref=f2e837] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ArtificialInteligence/comments/1m09hzm/mcp_model_context_protocol_is_not_really_anything/n37qoqd/
+                            - generic [ref=f2e838]: More
+                            - img [ref=f2e840]
+                        - generic [ref=f2e842]: 6 votes · 11 months ago
+                - generic [ref=f2e847] [cursor=pointer]:
+                  - generic [ref=f2e850]:
+                    - link "Still Confused About How MCP Works? Here's the Explanation That Finally Made it Click For Me Reddit · r/ClaudeAI · 60+ comments · 1 year ago" [ref=f2e851]:
+                      - /url: https://www.reddit.com/r/ClaudeAI/comments/1ioxu5r/still_confused_about_how_mcp_works_heres_the/
+                      - generic [ref=f2e852]:
+                        - heading "Still Confused About How MCP Works? Here's the Explanation That Finally Made it Click For Me" [level=3] [ref=f2e853]:
+                          - link "Still Confused About How MCP Works? Here's the Explanation That Finally Made it Click For Me" [ref=f2e854]
+                        - generic [ref=f2e861]:
+                          - generic [ref=f2e862]: Reddit ·
+                          - generic [ref=f2e864]:
+                            - generic [ref=f2e865]:
+                              - generic [ref=f2e866]: r/ClaudeAI
+                              - generic [ref=f2e867]:
+                                - generic [ref=f2e868]: ·
+                                - generic [ref=f2e869]: 60+ comments
+                            - generic [ref=f2e870]:
+                              - generic [ref=f2e871]: ·
+                              - generic [ref=f2e872]: 1 year ago
+                    - generic [ref=f2e878]:
+                      - generic [ref=f2e882]: ·
+                      - button "About this result" [ref=f2e887]:
+                        - img [ref=f2e890]
+                  - button "Still Confused About How MCP Works? Here's the Explanation That Finally Made it Click For Me Reddit · r/ClaudeAI · 60+ comments · 1 year ago" [ref=f2e892]:
+                    - img [ref=f2e895]
+                - generic [ref=f2e901] [cursor=pointer]:
+                  - generic [ref=f2e904]:
+                    - 'link "Vexcel Model Context Protocol: Aerial Imagery in Copilot and ChatGPT Windows Forum · 2 days ago" [ref=f2e905]':
+                      - /url: https://windowsforum.com/threads/vexcel-model-context-protocol-aerial-imagery-in-copilot-and-chatgpt.432912/
+                      - generic [ref=f2e906]:
+                        - 'heading "Vexcel Model Context Protocol: Aerial Imagery in Copilot and ChatGPT" [level=3] [ref=f2e907]':
+                          - 'link "Vexcel Model Context Protocol: Aerial Imagery in Copilot and ChatGPT" [ref=f2e908]'
+                        - generic [ref=f2e915]:
+                          - generic [ref=f2e916]: Windows Forum ·
+                          - generic [ref=f2e920]: 2 days ago
+                    - generic [ref=f2e926]:
+                      - generic [ref=f2e930]: ·
+                      - button "About this result" [ref=f2e935]:
+                        - img [ref=f2e938]
+                  - 'button "Vexcel Model Context Protocol: Aerial Imagery in Copilot and ChatGPT Windows Forum · 2 days ago" [ref=f2e940]':
+                    - img [ref=f2e943]
+                - link "See more discussions" [ref=f2e946] [cursor=pointer]:
+                  - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&udm=18&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8poLegQIQRAE
+                  - separator [ref=f2e947]
+                  - generic [ref=f2e948]:
+                    - generic [ref=f2e949]: See more
+                    - img [ref=f2e951]
+            - generic [ref=f2e957]:
+              - heading "People also ask" [level=2] [ref=f2e959]
+              - generic [ref=f2e960]:
+                - button "What is the Model Context Protocol?" [ref=f2e966] [cursor=pointer]:
+                  - generic [ref=f2e969]: What is the Model Context Protocol?
+                  - img [ref=f2e972]
+                - button "What is an MCP vs API?" [ref=f2e981] [cursor=pointer]:
+                  - generic [ref=f2e984]: What is an MCP vs API?
+                  - img [ref=f2e987]
+                - button "What is MCP and how does it work?" [ref=f2e996] [cursor=pointer]:
+                  - generic [ref=f2e999]: What is MCP and how does it work?
+                  - img [ref=f2e1002]
+                - button "Does ChatGPT use MCP?" [ref=f2e1011] [cursor=pointer]:
+                  - generic [ref=f2e1014]: Does ChatGPT use MCP?
+                  - img [ref=f2e1017]
+            - generic [ref=f2e1022]:
+              - heading "Web results" [level=2] [ref=f2e1023]
+              - generic [ref=f2e1024]:
+                - generic [ref=f2e1027]:
+                  - link "Introducing the Model Context Protocol Anthropic https://www.anthropic.com › news › model-context-pro..." [ref=f2e1029] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/news/model-context-protocol
+                    - heading "Introducing the Model Context Protocol" [level=3] [ref=f2e1030]
+                    - generic [ref=f2e1036]:
+                      - generic [ref=f2e1038]: Anthropic
+                      - generic [ref=f2e1040]: https://www.anthropic.com › news › model-context-pro...
+                  - button "About this result" [ref=f2e1043] [cursor=pointer]:
+                    - img [ref=f2e1046]
+                - generic [ref=f2e1049]:
+                  - generic [ref=f2e1050]: Nov 25, 2024 —
+                  - generic [ref=f2e1051]:
+                    - text: The Model Context Protocol is
+                    - emphasis [ref=f2e1052]: an open standard that enables developers to build secure, two-way connections
+                    - text: between their data sources and AI-powered tools.
+                  - link "Read more" [ref=f2e1053] [cursor=pointer]:
+                    - /url: https://www.anthropic.com/news/model-context-protocol#:~:text=The%20Model%20Context%20Protocol%20is,data%20sources%20and%20AI%2Dpowered%20tools.
+            - generic [ref=f2e1057]:
+              - generic [ref=f2e1059]:
+                - heading "Videos" [level=2] [ref=f2e1060]
+                - button "About this result" [ref=f2e1061] [cursor=pointer]:
+                  - img [ref=f2e1064]
+              - generic [ref=f2e1067]:
+                - generic [ref=f2e1073]:
+                  - generic [ref=f2e1074]:
+                    - generic [ref=f2e1075]:
+                      - link "How Model Context Protocol (MCP) actually works YouTube Google Cloud Tech 1 week ago" [ref=f2e1077] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=cGuyrANVi4A
+                        - heading "How Model Context Protocol (MCP) actually works YouTube Google Cloud Tech 1 week ago" [level=3] [ref=f2e1078]:
+                          - generic [ref=f2e1081]: How Model Context Protocol (MCP) actually works
+                          - generic [ref=f2e1083]:
+                            - generic [ref=f2e1084]:
+                              - text: YouTube
+                              - generic [ref=f2e1085]: · Google Cloud Tech
+                            - generic [ref=f2e1086]: 1 week ago
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - text: YouTube
+                                - generic: · Google Cloud Tech
+                          - button "About this result" [ref=f2e1087] [cursor=pointer]:
+                            - img [ref=f2e1090]
+                    - button "How Model Context Protocol (MCP) actually works by Google Cloud Tech on YouTube. Play on Google. 7:58" [ref=f2e1092] [cursor=pointer]:
+                      - generic [ref=f2e1093]:
+                        - img [ref=f2e1099]
+                        - generic [ref=f2e1102]:
+                          - generic [ref=f2e1104]: 7:58
+                          - img [ref=f2e1107]
+                  - button "MCP is an open standard connecting AI models to tools, data, & context consistently. It lets models dynamically discover & use resources." [ref=f2e1110] [cursor=pointer]:
+                    - generic [ref=f2e1114]: MCP is an open standard connecting AI models to tools, data, & context consistently. It lets models dynamically discover & use resources.
+                - generic [ref=f2e1120]:
+                  - generic [ref=f2e1121]:
+                    - generic [ref=f2e1122]:
+                      - link "Model Context Protocol (MCP), clearly explained (why it matters) YouTube Greg Isenberg Mar 14, 2025" [ref=f2e1124] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=7j_NE6Pjv-E
+                        - heading "Model Context Protocol (MCP), clearly explained (why it matters) YouTube Greg Isenberg Mar 14, 2025" [level=3] [ref=f2e1125]:
+                          - generic [ref=f2e1128]: Model Context Protocol (MCP), clearly explained (why it matters)
+                          - generic [ref=f2e1130]:
+                            - generic [ref=f2e1131]:
+                              - text: YouTube
+                              - generic [ref=f2e1132]: · Greg Isenberg
+                            - generic [ref=f2e1133]: Mar 14, 2025
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - text: YouTube
+                                - generic: · Greg Isenberg
+                          - button "About this result" [ref=f2e1134] [cursor=pointer]:
+                            - img [ref=f2e1137]
+                    - button "Model Context Protocol (MCP), clearly explained (why it matters) by Greg Isenberg on YouTube. Play on Google. 20:18" [ref=f2e1139] [cursor=pointer]:
+                      - generic [ref=f2e1140]:
+                        - img [ref=f2e1146]
+                        - generic [ref=f2e1149]:
+                          - generic [ref=f2e1151]: 20:18
+                          - img [ref=f2e1154]
+                  - button "MCP (Model Context Protocol) is a standard for connecting LLMs (Large Language Models) to external services, making them more capable." [ref=f2e1157] [cursor=pointer]:
+                    - generic [ref=f2e1161]: MCP (Model Context Protocol) is a standard for connecting LLMs (Large Language Models) to external services, making them more capable.
+                - generic [ref=f2e1167]:
+                  - generic [ref=f2e1168]:
+                    - generic [ref=f2e1169]:
+                      - link "MCP In 26 Minutes (Model Context Protocol) YouTube Tina Huang Oct 15, 2025" [ref=f2e1171] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=kOhLoixrJXo
+                        - heading "MCP In 26 Minutes (Model Context Protocol) YouTube Tina Huang Oct 15, 2025" [level=3] [ref=f2e1172]:
+                          - generic [ref=f2e1175]: MCP In 26 Minutes (Model Context Protocol)
+                          - generic [ref=f2e1177]:
+                            - generic [ref=f2e1178]:
+                              - text: YouTube
+                              - generic [ref=f2e1179]: · Tina Huang
+                            - generic [ref=f2e1180]: Oct 15, 2025
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - text: YouTube
+                                - generic: · Tina Huang
+                          - button "About this result" [ref=f2e1181] [cursor=pointer]:
+                            - img [ref=f2e1184]
+                    - button "MCP In 26 Minutes (Model Context Protocol) by Tina Huang on YouTube. Play on Google. 26:23" [ref=f2e1186] [cursor=pointer]:
+                      - generic [ref=f2e1187]:
+                        - img [ref=f2e1193]
+                        - generic [ref=f2e1196]:
+                          - generic [ref=f2e1198]: 26:23
+                          - img [ref=f2e1201]
+                  - button "12 key moments in this video" [ref=f2e1207] [cursor=pointer]:
+                    - generic [ref=f2e1216]:
+                      - generic [ref=f2e1219]: 12 key moments in this video
+                      - img [ref=f2e1221]
+              - link "View all videos" [ref=f2e1225] [cursor=pointer]:
+                - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&udm=7&q=Model+Context+Protocol&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8ccDKAJ6BAhIEAQ
+                - separator [ref=f2e1226]
+                - generic [ref=f2e1227]:
+                  - generic [ref=f2e1228]: View all
+                  - img [ref=f2e1230]
+            - generic [ref=f2e1234]:
+              - heading "Web results" [level=2] [ref=f2e1235]
+              - generic [ref=f2e1236]:
+                - generic [ref=f2e1239]:
+                  - link "Model Context Protocol GitHub https://github.com › modelcontextprotocol" [ref=f2e1241] [cursor=pointer]:
+                    - /url: https://github.com/modelcontextprotocol
+                    - heading "Model Context Protocol" [level=3] [ref=f2e1242]
+                    - generic [ref=f2e1248]:
+                      - generic [ref=f2e1250]: GitHub
+                      - generic [ref=f2e1252]: https://github.com › modelcontextprotocol
+                  - button "About this result" [ref=f2e1255] [cursor=pointer]:
+                    - img [ref=f2e1258]
+                - generic [ref=f2e1261]:
+                  - generic [ref=f2e1262]:
+                    - text: The
+                    - emphasis [ref=f2e1263]: Model Context Protocol
+                    - text: (
+                    - emphasis [ref=f2e1264]: MCP
+                    - text: ) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.
+                  - link "Read more" [ref=f2e1265] [cursor=pointer]:
+                    - /url: https://github.com/modelcontextprotocol#:~:text=The%20Model%20Context%20Protocol%20(MCP),external%20data%20sources%20and%20tools.
+            - generic [ref=f2e1269]:
+              - generic [ref=f2e1271]:
+                - heading "What people are saying" [level=2] [ref=f2e1272]:
+                  - generic [ref=f2e1274]: What people are saying
+                - generic [ref=f2e1284]: Trending posts and discussions
+              - generic [ref=f2e1286]:
+                - list [ref=f2e1288]:
+                  - generic [ref=f2e1289]:
+                    - listitem [ref=f2e1290]:
+                      - generic [ref=f2e1294]:
+                        - 'link "Everyone is talking about AI Agents. Very few are talking about what actually makes them useful. The answer is MCP (Model Context Protocol). Think of it as USB-C for AI. Without MCP: ❌ Your AI is limited to what it already knows. ❌ Every integration requires c 19 hours ago Neel Shah · LinkedIn Founder & CTO at Electrify Services" [ref=f2e1295] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/posts/neelcshah_ai-agenticai-mcp-activity-7478670869385506818-r3QA
+                          - generic [ref=f2e1299]:
+                            - 'heading "Everyone is talking about AI Agents. Very few are talking about what actually makes them useful. The answer is MCP (Model Context Protocol). Think of it as USB-C for AI. Without MCP: ❌ Your AI is limited to what it already knows. ❌ Every integration requires c" [level=3] [ref=f2e1301]'
+                            - generic [ref=f2e1302]: 19 hours ago
+                            - generic [ref=f2e1314]:
+                              - generic [ref=f2e1315]: Neel Shah · LinkedIn
+                              - generic [ref=f2e1317]: Founder & CTO at Electrify Services
+                        - button "About this result" [ref=f2e1321] [cursor=pointer]:
+                          - img [ref=f2e1324]
+                    - listitem [ref=f2e1326]:
+                      - generic [ref=f2e1330]:
+                        - 'link "Agents in Action #3:Model Context Protocol (MCP) for Data Engineers 5 days ago Erfan Hesami Substack" [ref=f2e1331] [cursor=pointer]':
+                          - /url: https://pipeline2insights.substack.com/p/ai-agents-in-action-part-3-model-context-protocol-mcp-for-data-engineers
+                          - generic [ref=f2e1335]:
+                            - 'heading "Agents in Action #3:Model Context Protocol (MCP) for Data Engineers" [level=3] [ref=f2e1337]'
+                            - generic [ref=f2e1338]: 5 days ago
+                            - generic [ref=f2e1347]:
+                              - generic [ref=f2e1348]: Erfan Hesami
+                              - generic [ref=f2e1349]: Substack
+                        - button "About this result" [ref=f2e1353] [cursor=pointer]:
+                          - img [ref=f2e1356]
+                    - listitem [ref=f2e1358]:
+                      - generic [ref=f2e1362]:
+                        - button "Build a multi-agent system using ADK & MCP. Play on Google. 11:16" [ref=f2e1367] [cursor=pointer]:
+                          - generic [ref=f2e1370]:
+                            - generic [ref=f2e1371]:
+                              - img [ref=f2e1372]
+                              - generic [ref=f2e1374]: 11:16
+                            - img [ref=f2e1377]
+                        - link "Build a multi-agent system using ADK & MCP 2.9K+ views · 4 days ago Google Cloud Tech · YouTube Computer application" [ref=f2e1379] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=W54cRxp-bSA
+                          - generic [ref=f2e1380]:
+                            - heading "Build a multi-agent system using ADK & MCP" [level=3] [ref=f2e1382]
+                            - generic [ref=f2e1384]: 2.9K+ views · 4 days ago
+                            - generic [ref=f2e1396]:
+                              - generic [ref=f2e1397]: Google Cloud Tech · YouTube
+                              - generic [ref=f2e1399]: Computer application
+                        - button "About this result" [ref=f2e1403] [cursor=pointer]:
+                          - img [ref=f2e1406]
+                    - listitem [ref=f2e1408]:
+                      - generic [ref=f2e1413]:
+                        - link "Model Context Protocol (MCP) — Full Visual Guide | by Parvez Mohammed @ Techlatest.net | Jun, 2026 Model Context Protocol (MCP) — Full Visual Guide Connect AI hosts — Cursor, Claude Desktop, VS Code Copilot — to your databases, repos,... . 2 weeks ago Parvez Mohammed Medium" [ref=f2e1414] [cursor=pointer]:
+                          - /url: https://medium.com/@techlatest.net/model-context-protocol-mcp-full-visual-guide-ffbbf2121c38
+                          - generic [ref=f2e1415]:
+                            - heading "Model Context Protocol (MCP) — Full Visual Guide | by Parvez Mohammed @ Techlatest.net | Jun, 2026" [level=3] [ref=f2e1417]
+                            - generic [ref=f2e1418]:
+                              - generic [ref=f2e1419]: Model Context Protocol (MCP) — Full Visual Guide Connect AI hosts — Cursor, Claude Desktop, VS Code Copilot — to your databases, repos,...
+                              - generic [ref=f2e1420]: .
+                            - generic [ref=f2e1421]: 2 weeks ago
+                            - generic [ref=f2e1430]:
+                              - generic [ref=f2e1431]: Parvez Mohammed
+                              - generic [ref=f2e1432]: Medium
+                        - button "About this result" [ref=f2e1436] [cursor=pointer]:
+                          - img [ref=f2e1439]
+                    - listitem [ref=f2e1441]:
+                      - generic [ref=f2e1446]:
+                        - link "Safari’s new MCP server lets coding agents inspect and debug websites Popular comment · This is actually great, because it completely eliminates the need of installing custom plugins for agentic integration. 100+ upvotes . 10+ comments · 2 days ago r/apple Reddit" [ref=f2e1447] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/apple/comments/1ukzhr6/safaris_new_mcp_server_lets_coding_agents_inspect/
+                          - generic [ref=f2e1448]:
+                            - heading "Safari’s new MCP server lets coding agents inspect and debug websites" [level=3] [ref=f2e1450]
+                            - generic [ref=f2e1451]:
+                              - generic [ref=f2e1452]:
+                                - generic [ref=f2e1453]: Popular comment · This is actually great, because it completely eliminates the need of installing custom plugins for agentic integration.
+                                - generic [ref=f2e1454]: 100+ upvotes
+                              - generic [ref=f2e1455]: .
+                            - generic [ref=f2e1456]: 10+ comments · 2 days ago
+                            - generic [ref=f2e1465]:
+                              - generic [ref=f2e1466]: r/apple
+                              - generic [ref=f2e1467]: Reddit
+                        - button "About this result" [ref=f2e1471] [cursor=pointer]:
+                          - img [ref=f2e1474]
+                    - listitem [ref=f2e1476]:
+                      - generic [ref=f2e1481]:
+                        - link "You may have heard about the Model Context Protocol and wondered how it lets AI tools connect to other tools, APIs, and systems. Well, it's all thanks to MCP servers. In this guide, Manish explains how MCP servers work and helps you build your own with Pyt 210+ reactions · 2 weeks ago freecodecamp · Facebook Coding community" [ref=f2e1482] [cursor=pointer]:
+                          - /url: https://www.facebook.com/freecodecamp/posts/you-may-have-heard-about-the-model-context-protocol-and-wondered-how-it-lets-ai-/1060510119895088/
+                          - generic [ref=f2e1486]:
+                            - heading "You may have heard about the Model Context Protocol and wondered how it lets AI tools connect to other tools, APIs, and systems. Well, it's all thanks to MCP servers. In this guide, Manish explains how MCP servers work and helps you build your own with Pyt" [level=3] [ref=f2e1488]
+                            - generic [ref=f2e1489]: 210+ reactions · 2 weeks ago
+                            - generic [ref=f2e1501]:
+                              - generic [ref=f2e1502]: freecodecamp · Facebook
+                              - generic [ref=f2e1504]: Coding community
+                        - button "About this result" [ref=f2e1508] [cursor=pointer]:
+                          - img [ref=f2e1511]
+                    - listitem [ref=f2e1513]:
+                      - generic [ref=f2e1518]:
+                        - 'link "MCP vs Skills in 10 mins! In this video, I cover the hidden problem behind MCP (Model Context Protocol), how \"context rot\" destroys AI agent performance, and why Agent Skills are becoming the preferred architecture for building scalable AI systems. Topics covered: ✅ What MCP (Model Context Protocol) actually is ✅ How MCP works under the hood ✅ Why adding more tools can make AI agents worse ✅ The real cost of context window overload ✅ What Agent Skills are and how they solve context rot ✅ Progressive Disclosure explained simply ✅ MCP vs Agent Skills comparison ✅ Best practices for building production-ready AI agents ✅ Real-world examples from sales automation, onboarding, and data pipelines Checkout video link in comments 👇 #mcp #agent #skills #aiagent 4 days ago pvergadia · X AI strategy advisor to Fortune 500 CEOs" [ref=f2e1519] [cursor=pointer]':
+                          - /url: https://x.com/pvergadia/status/2071451317378461710?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet
+                          - generic [ref=f2e1523]:
+                            - 'heading "MCP vs Skills in 10 mins! In this video, I cover the hidden problem behind MCP (Model Context Protocol), how \"context rot\" destroys AI agent performance, and why Agent Skills are becoming the preferred architecture for building scalable AI systems. Topics covered: ✅ What MCP (Model Context Protocol) actually is ✅ How MCP works under the hood ✅ Why adding more tools can make AI agents worse ✅ The real cost of context window overload ✅ What Agent Skills are and how they solve context rot ✅ Progressive Disclosure explained simply ✅ MCP vs Agent Skills comparison ✅ Best practices for building production-ready AI agents ✅ Real-world examples from sales automation, onboarding, and data pipelines Checkout video link in comments 👇 #mcp #agent #skills #aiagent" [level=3] [ref=f2e1525]'
+                            - generic [ref=f2e1526]: 4 days ago
+                            - generic [ref=f2e1538]:
+                              - generic [ref=f2e1539]: pvergadia · X
+                              - generic [ref=f2e1541]: AI strategy advisor to Fortune 500 CEOs
+                        - button "About this result" [ref=f2e1545] [cursor=pointer]:
+                          - img [ref=f2e1548]
+                    - listitem [ref=f2e1550]:
+                      - generic [ref=f2e1555]:
+                        - 'link "Understanding the Model Context Protocol (MCP) before building my own Before writing a single line of code, I wanted to understand the system architecture behind MCP: how it actually works under the hood, not just how to use it. A few things that clicked for 200+ reactions · 1 day ago Pooja Hooda LinkedIn" [ref=f2e1556] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/posts/pooja-hooda-21b473124_mcp-modelcontextprotocol-softwareengineering-activity-7478394569781309440-UHdT
+                          - generic [ref=f2e1557]:
+                            - 'heading "Understanding the Model Context Protocol (MCP) before building my own Before writing a single line of code, I wanted to understand the system architecture behind MCP: how it actually works under the hood, not just how to use it. A few things that clicked for" [level=3] [ref=f2e1559]'
+                            - generic [ref=f2e1560]: 200+ reactions · 1 day ago
+                            - generic [ref=f2e1572]:
+                              - generic [ref=f2e1573]: Pooja Hooda
+                              - generic [ref=f2e1574]: LinkedIn
+                        - button "About this result" [ref=f2e1578] [cursor=pointer]:
+                          - img [ref=f2e1581]
+                    - listitem [ref=f2e1583]:
+                      - generic [ref=f2e1588]:
+                        - link "0:57 MCP is everywhere right now, but most people still confuse it with multiple other terms. They are related, but they are not the same thing. Watch until the end for the simplest mental model to understand where MCP actually fits in an AI system. Save this for your next AI Engineering interview or architecture discussion. Which comparison confused you the most? . . . [MCP, Model Context Protocol, MCP Server, MCP Client, API, Tool Calling, Function Calling, CLI, AI Agent, Agentic AI, AI Tools, AI Engineering, LLM Engineering, Generative AI, Large Language Models, AI Agents Explained, System Design, AI System Design, LLM Applications, Tool Use, Git, Docker, Kubernetes, Software Engineering, Production AI, Agent Architecture, LLMOps, AI Infrastructure] 1.3K+ likes · 3 days ago jam.with.ai Instagram" [ref=f2e1589] [cursor=pointer]:
+                          - /url: https://www.instagram.com/reel/DaLMbLVowWs/
+                          - generic [ref=f2e1595]:
+                            - img [ref=f2e1596]
+                            - generic [ref=f2e1598]: 0:57
+                          - generic [ref=f2e1599]:
+                            - heading "MCP is everywhere right now, but most people still confuse it with multiple other terms. They are related, but they are not the same thing. Watch until the end for the simplest mental model to understand where MCP actually fits in an AI system. Save this for your next AI Engineering interview or architecture discussion. Which comparison confused you the most? . . . [MCP, Model Context Protocol, MCP Server, MCP Client, API, Tool Calling, Function Calling, CLI, AI Agent, Agentic AI, AI Tools, AI Engineering, LLM Engineering, Generative AI, Large Language Models, AI Agents Explained, System Design, AI System Design, LLM Applications, Tool Use, Git, Docker, Kubernetes, Software Engineering, Production AI, Agent Architecture, LLMOps, AI Infrastructure]" [level=3] [ref=f2e1601]
+                            - generic [ref=f2e1603]: 1.3K+ likes · 3 days ago
+                            - generic [ref=f2e1615]:
+                              - generic [ref=f2e1616]: jam.with.ai
+                              - generic [ref=f2e1617]: Instagram
+                        - button "About this result" [ref=f2e1621] [cursor=pointer]:
+                          - img [ref=f2e1624]
+                    - listitem [ref=f2e1626]:
+                      - generic [ref=f2e1631]:
+                        - button "Spring AI + X's New MCP Servers. Play on Google. 24:08" [ref=f2e1636] [cursor=pointer]:
+                          - generic [ref=f2e1642]:
+                            - generic [ref=f2e1643]:
+                              - img [ref=f2e1644]
+                              - generic [ref=f2e1646]: 24:08
+                            - img [ref=f2e1649]
+                        - link "Spring AI + X's New MCP Servers 1.7K+ views · 2 days ago Dan Vega · YouTube Spring developer advocate" [ref=f2e1651] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=j4chxGtqkY8
+                          - generic [ref=f2e1652]:
+                            - heading "Spring AI + X's New MCP Servers" [level=3] [ref=f2e1654]
+                            - generic [ref=f2e1656]: 1.7K+ views · 2 days ago
+                            - generic [ref=f2e1668]:
+                              - generic [ref=f2e1669]: Dan Vega · YouTube
+                              - generic [ref=f2e1671]: Spring developer advocate
+                        - button "About this result" [ref=f2e1675] [cursor=pointer]:
+                          - img [ref=f2e1678]
+                    - listitem [ref=f2e1680]:
+                      - generic [ref=f2e1685]:
+                        - link "What Is MCP (Model Context Protocol)? How Does MCP Work in AI? | by amol pawar | softAai Blogs | May, 2026 50+ likes · 1 month ago amol pawar Medium" [ref=f2e1686] [cursor=pointer]:
+                          - /url: https://medium.com/softaai-blogs/what-is-mcp-model-context-protocol-how-does-mcp-work-in-ai-f9145b2792e6
+                          - generic [ref=f2e1690]:
+                            - heading "What Is MCP (Model Context Protocol)? How Does MCP Work in AI? | by amol pawar | softAai Blogs | May, 2026" [level=3] [ref=f2e1692]
+                            - generic [ref=f2e1693]: 50+ likes · 1 month ago
+                            - generic [ref=f2e1702]:
+                              - generic [ref=f2e1703]: amol pawar
+                              - generic [ref=f2e1704]: Medium
+                        - button "About this result" [ref=f2e1708] [cursor=pointer]:
+                          - img [ref=f2e1711]
+                    - listitem [ref=f2e1713]:
+                      - generic [ref=f2e1718]:
+                        - 'link "𝙈𝘾𝙋 𝙫𝙨 𝘼𝙋𝙄 — 𝙒𝙝𝙖𝙩''𝙨 𝙩𝙝𝙚 𝘿𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙘𝙚? When I first started learning about Model Context Protocol (MCP), I had a simple question: Isn''t MCP just another API? The answer is not exactly. APIs and MCP solve related problems, but they are designed fo 3 weeks ago Poorna Soysa · LinkedIn .NET software engineer" [ref=f2e1719] [cursor=pointer]':
+                          - /url: https://www.linkedin.com/posts/poorna-soysa_%F0%9D%99%88%F0%9D%98%BE%F0%9D%99%8B-%F0%9D%99%AB%F0%9D%99%A8-%F0%9D%98%BC%F0%9D%99%8B%F0%9D%99%84-%F0%9D%99%92%F0%9D%99%9D%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%A8-%F0%9D%99%A9%F0%9D%99%9D%F0%9D%99%9A-%F0%9D%98%BF%F0%9D%99%9E%F0%9D%99%9B%F0%9D%99%9B%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%9A%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A-activity-7471090171610820608-imYF
+                          - generic [ref=f2e1723]:
+                            - 'heading "𝙈𝘾𝙋 𝙫𝙨 𝘼𝙋𝙄 — 𝙒𝙝𝙖𝙩''𝙨 𝙩𝙝𝙚 𝘿𝙞𝙛𝙛𝙚𝙧𝙚𝙣𝙘𝙚? When I first started learning about Model Context Protocol (MCP), I had a simple question: Isn''t MCP just another API? The answer is not exactly. APIs and MCP solve related problems, but they are designed fo" [level=3] [ref=f2e1725]'
+                            - generic [ref=f2e1726]: 3 weeks ago
+                            - generic [ref=f2e1738]:
+                              - generic [ref=f2e1739]: Poorna Soysa · LinkedIn
+                              - generic [ref=f2e1741]: .NET software engineer
+                        - button "About this result" [ref=f2e1745] [cursor=pointer]:
+                          - img [ref=f2e1748]
+                - button [ref=f2e1750] [cursor=pointer]:
+                  - img [ref=f2e1753]
+            - generic [ref=f2e1757]:
+              - heading "Web results" [level=2] [ref=f2e1758]
+              - generic [ref=f2e1759]:
+                - generic [ref=f2e1762]:
+                  - link "What is Model Context Protocol (MCP)? A guide Google Cloud https://cloud.google.com › discover › what-is-model-con..." [ref=f2e1764] [cursor=pointer]:
+                    - /url: https://cloud.google.com/discover/what-is-model-context-protocol
+                    - heading "What is Model Context Protocol (MCP)? A guide" [level=3] [ref=f2e1765]
+                    - generic [ref=f2e1771]:
+                      - generic [ref=f2e1773]: Google Cloud
+                      - generic [ref=f2e1775]: https://cloud.google.com › discover › what-is-model-con...
+                  - button "About this result" [ref=f2e1778] [cursor=pointer]:
+                    - img [ref=f2e1781]
+                - generic [ref=f2e1785]:
+                  - text: Learn how the
+                  - emphasis [ref=f2e1786]: Model Context Protocol
+                  - text: (
+                  - emphasis [ref=f2e1787]: MCP
+                  - text: ) standard allows LLMs to safely access external data and use tools, making AI more powerful and reliable.
+            - generic [ref=f2e1791]:
+              - generic [ref=f2e1794]:
+                - link "What is Model Context Protocol (MCP)? IBM https://www.ibm.com › think › topics › model-context-..." [ref=f2e1796] [cursor=pointer]:
+                  - /url: https://www.ibm.com/think/topics/model-context-protocol
+                  - heading "What is Model Context Protocol (MCP)?" [level=3] [ref=f2e1797]
+                  - generic [ref=f2e1803]:
+                    - generic [ref=f2e1805]: IBM
+                    - generic [ref=f2e1807]: https://www.ibm.com › think › topics › model-context-...
+                - button "About this result" [ref=f2e1810] [cursor=pointer]:
+                  - img [ref=f2e1813]
+              - generic [ref=f2e1816]:
+                - generic [ref=f2e1817]:
+                  - text: The Model Context Protocol (MCP)
+                  - emphasis [ref=f2e1818]: serves as a standardization layer for AI applications
+                  - text: to communicate effectively with external services such as tools, ...
+                - link "Read more" [ref=f2e1819] [cursor=pointer]:
+                  - /url: https://www.ibm.com/think/topics/model-context-protocol#:~:text=The%20Model%20Context%20Protocol%20(MCP),tools%2C%20databases%20and%20predefined%20templates.
+            - region "Ads" [ref=f2e1823]:
+              - generic [ref=f2e1824]:
+                - heading "Sponsored results" [level=2] [ref=f2e1831]
+                - generic [ref=f2e1832]:
+                  - generic [ref=f2e1839]:
+                    - generic [ref=f2e1844]:
+                      - generic [ref=f2e1845]:
+                        - link "MCP for Enterprise AI Nexla https://www.nexla.com" [ref=f2e1846] [cursor=pointer]:
+                          - /url: https://nexla.com/mcp/
+                          - heading "MCP for Enterprise AI" [level=3] [ref=f2e1847]
+                          - generic [ref=f2e1853]:
+                            - generic [ref=f2e1855]: Nexla
+                            - generic [ref=f2e1856]: https://www.nexla.com
+                        - button "Why this ad?" [ref=f2e1859] [cursor=pointer]:
+                          - img [ref=f2e1861]
+                      - generic [ref=f2e1865]: One MCP for All Data — One MCP endpoint for databases, SaaS apps, APIs, and legacy systems. Connect AI agents to 550+ enterprise systems...
+                      - generic [ref=f2e1867]:
+                        - text: ‎
+                        - link "MCP Gateway Architecture" [ref=f2e1868] [cursor=pointer]:
+                          - /url: https://nexla.com/mcp-architecture/
+                        - text: · ‎
+                        - link "Enterprise MCP Architecture" [ref=f2e1869] [cursor=pointer]:
+                          - /url: https://nexla.com/mcp-architecture/
+                        - text: · ‎
+                        - link "Build AI Pipelines Fast" [ref=f2e1870] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwi5h9HF1LeVAxVXGq0GHSOoPLsYACICCAIQBRoCcHY&co=1&ase=2&gclid=EAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAMYASACEgIvdfD_BwE&cid=CAAS0gHkaFIg7RzkZRKCDHIw5foc2s9oQUpE1MCLpJ74F0k5wPTBrloUL0K41jl2FIIMArZVcGLJ51mXcg66ihtwgQ_swW-zGxtBFEKBLjkx00do3KiyU6fsHTi1m25ecsgrZLtDa1dbYs_ruZGxw-JRJfcPlvA7_tWP_GPj_G-GA1oC_Tk-EISf6IECFt_U43I1bFnV5iIsVq-ivCT1Wg9c-naKQxJB5A1mZwbx-ZpjnyL9gIo8eChVpIw88Pn05E8VK-rS4FIc_wcD8UZOJzHOD-9e1ik&cce=2&category=acrcp_v1_32&sig=AOD64_1kp69Y79aVENB4Uy-Zn77YGa0nIQ&adurl=&q=
+                        - text: · ‎
+                        - link "AI for AI" [ref=f2e1871] [cursor=pointer]:
+                          - /url: https://offers.nexla.com/metadata-data-integration-guide
+                      - generic [ref=f2e1876]: 10K+ visits in past month
+                    - generic [ref=f2e1881]:
+                      - generic [ref=f2e1882]:
+                        - link "Model context protocol guide infosys.com https://www.infosys.com" [ref=f2e1883] [cursor=pointer]:
+                          - /url: https://www.infosys.com/engineering-services/insights/documents/contextual-engineering-intelligence.pdf
+                          - heading "Model context protocol guide" [level=3] [ref=f2e1884]
+                          - generic [ref=f2e1886]:
+                            - img [ref=f2e1891]
+                            - generic [ref=f2e1893]:
+                              - generic [ref=f2e1895]: infosys.com
+                              - generic [ref=f2e1896]: https://www.infosys.com
+                        - button "Why this ad?" [ref=f2e1899] [cursor=pointer]:
+                          - img [ref=f2e1901]
+                      - generic [ref=f2e1906]:
+                        - text: Read the MCP white paper — Explore the white paper on
+                        - emphasis [ref=f2e1907]: Model Context Protocol
+                        - text: and Agentic AI in engineering. Discover the white paper on Agentic AI and
+                        - emphasis [ref=f2e1908]: Model Context Protocol
+                        - text: for Engineering.
+                      - generic [ref=f2e1910]:
+                        - text: ‎
+                        - 'link "MCP for enterprise AI: Guide" [ref=f2e1911] [cursor=pointer]':
+                          - /url: https://www.infosys.com/engineering-services/insights/documents/contextual-engineering-intelligence.pdf?cmpid=pm_ser_cobON_cobONsearch_DiMa_html5_12062026_82ea253dd022f65f313446b1554574ed_lq_lq
+                        - text: · ‎
+                        - link "Explore AI orchestration" [ref=f2e1912] [cursor=pointer]:
+                          - /url: /aclk?sa=L&ai=DChsSEwi5h9HF1LeVAxVXGq0GHSOoPLsYACICCAIQBBoCcHY&co=1&ase=2&gclid=EAIaIQobChMIuYfRxdS3lQMVVxqtBh0jqDy7EAMYAiACEgIRFvD_BwE&cid=CAAS0gHkaFIg7RzkZRKCDHIw5foc2s9oQUpE1MCLpJ74F0k5wPTBrloUL0K41jl2FIIMArZVcGLJ51mXcg66ihtwgQ_swW-zGxtBFEKBLjkx00do3KiyU6fsHTi1m25ecsgrZLtDa1dbYs_ruZGxw-JRJfcPlvA7_tWP_GPj_G-GA1oC_Tk-EISf6IECFt_U43I1bFnV5iIsVq-ivCT1Wg9c-naKQxJB5A1mZwbx-ZpjnyL9gIo8eChVpIw88Pn05E8VK-rS4FIc_wcD8UZOJzHOD-9e1ik&cce=2&category=acrcp_v1_32&sig=AOD64_3c50sC4nbPConC9ofPK7foCL_L4A&adurl=&q=
+                        - text: · ‎
+                        - link "AI-Powered Infrastructure" [ref=f2e1913] [cursor=pointer]:
+                          - /url: https://www.infosys.com/iki/perspectives/future-data-centers-enterprise-guide.html?cmpid=pm_ser_cobON_cobONsearch_DiMa_html5_12062026_cf3f833e69c04ca16ac507a7224463c0_lq_lq
+                      - generic [ref=f2e1918]: 1M+ visits in past month
+                  - button "Hide sponsored results" [ref=f2e1920] [cursor=pointer]:
+                    - separator [ref=f2e1921]
+                    - generic [ref=f2e1922]:
+                      - generic [ref=f2e1923]: Hide sponsored results
+                      - img [ref=f2e1925]
+        - generic [ref=f2e1928]:
+          - generic [ref=f2e1933]:
+            - heading "People also search for" [level=2] [ref=f2e1935]
+            - generic [ref=f2e1937]:
+              - generic [ref=f2e1938]:
+                - link "Model Context Protocol book" [ref=f2e1942] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+book&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhNEAE
+                  - generic [ref=f2e1943]:
+                    - generic [ref=f2e1948]: Model Context Protocol book
+                    - img [ref=f2e1952]
+                - link "Model Context Protocol OpenAI" [ref=f2e1957] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+OpenAI&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAheEAE
+                  - generic [ref=f2e1958]:
+                    - generic [ref=f2e1963]: Model Context Protocol OpenAI
+                    - img [ref=f2e1967]
+                - link "Model Context Protocol PDF" [ref=f2e1972] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+PDF&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhbEAE
+                  - generic [ref=f2e1973]:
+                    - generic [ref=f2e1978]: Model Context Protocol PDF
+                    - img [ref=f2e1982]
+                - link "Model Context Protocol specification" [ref=f2e1987] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+specification&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhZEAE
+                  - generic [ref=f2e1988]:
+                    - generic [ref=f2e1993]: Model Context Protocol specification
+                    - img [ref=f2e1997]
+              - generic [ref=f2e1999]:
+                - link "Model Context Protocol Anthropic" [ref=f2e2003] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+Anthropic&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhXEAE
+                  - generic [ref=f2e2004]:
+                    - generic [ref=f2e2009]: Model Context Protocol Anthropic
+                    - img [ref=f2e2013]
+                - link "Model Context Protocol wiki" [ref=f2e2018] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+wiki&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhTEAE
+                  - generic [ref=f2e2019]:
+                    - generic [ref=f2e2024]: Model Context Protocol wiki
+                    - img [ref=f2e2028]
+                - link "Model Context Protocol Claude" [ref=f2e2033] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+Claude&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhQEAE
+                  - generic [ref=f2e2034]:
+                    - generic [ref=f2e2039]: Model Context Protocol Claude
+                    - img [ref=f2e2043]
+                - link "Model Context Protocol logo" [ref=f2e2048] [cursor=pointer]:
+                  - /url: /search?sca_esv=2bd2cc07c427a574&hl=en&q=Model+Context+Protocol+logo&sa=X&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ1QJ6BAhOEAE
+                  - generic [ref=f2e2049]:
+                    - generic [ref=f2e2054]: Model Context Protocol logo
+                    - img [ref=f2e2058]
+          - navigation [ref=f2e2060]:
+            - heading "Page Navigation" [level=1] [ref=f2e2061]
+            - text: "1"
+            - link "Page 2" [ref=f2e2064] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=10&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAE
+              - text: "2"
+            - link "Page 3" [ref=f2e2066] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=20&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAG
+              - text: "3"
+            - link "Page 4" [ref=f2e2068] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=30&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAI
+              - text: "4"
+            - link "Page 5" [ref=f2e2070] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=40&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAK
+              - text: "5"
+            - link "Page 6" [ref=f2e2072] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=50&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAM
+              - text: "6"
+            - link "Page 7" [ref=f2e2074] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=60&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAO
+              - text: "7"
+            - link "Page 8" [ref=f2e2076] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=70&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAQ
+              - text: "8"
+            - link "Page 9" [ref=f2e2078] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=80&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAS
+              - text: "9"
+            - link "Page 10" [ref=f2e2080] [cursor=pointer]:
+              - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=90&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8tMDegQIShAU
+              - text: "10"
+            - heading "Next" [level=2] [ref=f2e2082]:
+              - link "Next" [ref=f2e2083] [cursor=pointer]:
+                - /url: /search?q=Model+Context+Protocol&sca_esv=2bd2cc07c427a574&hl=en&ei=pUVIatDxBdu70PEPubqmsQg&start=10&sa=N&sstk=AU9db-B8gaK6W-ZMmXnK7I6gPxkxXMjuhy2DgRc_hcwyShUxkMOnVRhWiObTUSDZs9YpyHqS3LBSGGo5Bf8xIj9XUhZ_IDjkLzaJgw&ved=2ahUKEwiQ2MnF1LeVAxXbHTQIHTmdKYYQ8NMDegQIShAW
+                - generic [ref=f2e2085]: Next
+        - navigation
+    - contentinfo [ref=f2e2086]:
+      - heading "Footer Links" [level=1] [ref=f2e2087]
+      - generic [ref=f2e2091]:
+        - generic [ref=f2e2095]:
+          - button "95126, San Jose, CA - From your IP address" [ref=f2e2097] [cursor=pointer]:
+            - generic [ref=f2e2098]: 95126, San Jose, CA
+            - generic [ref=f2e2100]:
+              - text: "-"
+              - generic [ref=f2e2101]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=f2e2103] [cursor=pointer]: Update location
+        - generic [ref=f2e2106]:
+          - link "Help" [ref=f2e2107] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=f2e2108] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=f2e2109] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=f2e2110] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1
