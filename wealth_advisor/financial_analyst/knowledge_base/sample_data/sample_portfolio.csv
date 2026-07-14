@@ -1,0 +1,12 @@
+symbol,name,type,quantity,avg_price,current_price
+RELIANCE,Reliance Industries Ltd,stock,15,2450.00,2610.50
+INFY,Infosys Ltd,stock,40,1450.00,1520.75
+TCS,Tata Consultancy Services,stock,10,3600.00,3450.20
+HDFCBANK,HDFC Bank Ltd,stock,30,1550.00,1610.00
+TATAMOTORS,Tata Motors Ltd,stock,50,780.00,825.40
+AXISBLUECHIP,Axis Bluechip Fund,mutual_fund,320.500,42.10,45.80
+PARAGPARIKHFLEXICAP,Parag Parikh Flexi Cap Fund,mutual_fund,180.250,68.40,90.94
+HDFCFLEXICAP,HDFC Flexi Cap Fund,mutual_fund,95.800,1450.00,1610.30
+SBISMALLCAP,SBI Small Cap Fund,mutual_fund,210.400,135.20,152.60
+ICICIPRUCORPORATEBOND,ICICI Prudential Corporate Bond Fund,mutual_fund,1200.000,28.50,29.80
+UTINIFTYINDEX,UTI Nifty 50 Index Fund,mutual_fund,450.600,210.00,228.90

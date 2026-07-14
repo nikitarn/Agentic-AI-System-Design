@@ -1,0 +1,9 @@
+{
+  "mcp_servers": {
+    "broker_mock": {
+      "command": "${PYTHON_EXECUTABLE}",
+      "args": ["financial_analyst/mcp_servers/broker_mock_server.py"],
+      "transport": "stdio"
+    }
+  }
+}

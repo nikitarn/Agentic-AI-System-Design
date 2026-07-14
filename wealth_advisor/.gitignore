@@ -1,0 +1,22 @@
+# Secrets — never commit
+.env
+
+
+# Vector store data
+.chromadb/
+financial_analyst/knowledge_base/chunks_cache.pkl
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Poetry
+poetry.lock
+
+
+# Virtual environments
+.venv/
+venv/
